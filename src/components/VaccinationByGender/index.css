@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.vaccination-by-gender {
+  background-color: #1c1c2b;
+
+  margin-top: 50px;
+  padding: 30px;
+}
+.heading-age {
+  color: #cbd5e1;
+
+  font-family: 'Roboto';
+  font-size: 25px;
+}

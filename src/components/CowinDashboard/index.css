@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.failure-view {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.heading-failure {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.loading-view {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.co-win-container {
+  background-color: #161625;
+  padding: 50px;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+  padding-left: 10px;
+  color: #2cc6c6;
+}
+.heading2 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #cbd5e1;
+}
